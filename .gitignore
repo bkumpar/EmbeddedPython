@@ -6,6 +6,7 @@
 *.lo
 *.o
 *.obj
+*.iobj
 
 # Precompiled Headers
 *.gch
@@ -30,3 +31,13 @@
 *.exe
 *.out
 *.app
+
+# Other
+*.db
+*.log
+*.pdb
+x64/*
+Debug/*
+Release/*
+.vs/*
+__pycache__/*
